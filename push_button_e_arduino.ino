@@ -5,6 +5,7 @@ AUTOR: JULIO CESAR PEREIRA RODRIGUES
 
 DATA: 05/06/2026
 
+Projeto disponível em: https://github.com/cesarrodrigues-commits/Sistemas-Embarcados---Arduino
 */
 
 
